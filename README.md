@@ -1,2 +1,2 @@
 # MuteToggleMicrophone
-Toggle mute on/off for a microphone
+Mute/unmute toggle for a microphone
